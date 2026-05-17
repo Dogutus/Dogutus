@@ -1,6 +1,12 @@
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Dogutus&style=for-the-badge&color=blueviolet)
+
+</div>
+
 # Dogutus
 
-Rust and Lua mostly. Sometimes other things. 
+Rust and Lua mostly. Sometimes other things.
 
 ---
 
@@ -10,7 +16,3 @@ Rust and Lua mostly. Sometimes other things.
 ---
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BC2H8HZqvq)
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/Dogutus/count.svg)
