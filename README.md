@@ -2,7 +2,7 @@
 
 ![Visitor](https://komarev.com/ghpvc/?username=Dogutus&style=for-the-badge&color=blueviolet&label=Visitor)
 
-# Dogutus
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Dogutus;Nerox+Scripts)](https://git.io/typing-svg)
 
 Rust and Lua mostly. Sometimes other things.
 
